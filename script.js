@@ -1,5 +1,5 @@
 let ele = document.createElement("div");
-ele.classList.add("container", "d-flex", "justify-content-center", "p-5", )
+ele.classList.add("container-fluid", "d-flex", "justify-content-center", "p-5", )
 ele.setAttribute("id", "div1");
 ele.innerHTML = "10";
 
